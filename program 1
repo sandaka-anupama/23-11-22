@@ -1,0 +1,22 @@
+#ARITHMETIC OPERATIONS
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a**b)
+print(a//b)
+OUTPUT:
+
+=== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/p7.py ==
+45
+6
+51
+39
+270
+7.5
+3
+8303765625
+7
